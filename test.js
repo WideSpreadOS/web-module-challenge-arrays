@@ -307,4 +307,3 @@ function randomFlavors(arrays) {
     }
     
 }
-console.log(randomFlavors(arrays)) 
